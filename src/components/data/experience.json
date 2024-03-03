@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Finding for a Job In Google For a Month",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "CA,United State",
+    "experiences": [
+      "Find a Chance to Worked on Google Gmail",
+      "Worked with the Google Bard Team"
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Finding For a Job In Software Development Engineer SDE - I",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Present",
+    "location": "London, UK",
+    "experiences": [
+      "Find a Chance in Worked on Windows 10 terminal",
+      "Find a Chance To Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Find a Chance in Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Find a Chance to Worked on Nextflix payment system",
+      "Find a Chance to Helped to create UI for video player"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
